@@ -22,7 +22,7 @@ nest-asyncio==1.6.0
 networkx==3.3
 numpy==2.0.1
 packaging==24.1
-Panda3D==1.10.14
+Panda3D==1.10.15
 panda3d-gltf==1.2.1
 panda3d-simplepbr==0.12.0
 pandas==2.2.2
@@ -48,7 +48,5 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
 wcwidth==0.2.13
-gunicorn == 22.0.0 
-Django>=3.0,<4.0
+gunicorn==22.0.0
 waitress>=2.0,<3.0
-
